@@ -1,0 +1,13 @@
+nav {
+  height: 100px;
+}
+nav ul a {
+  font-size: 1.4em;
+  font-family: 'Dosis', sans-serif;
+}
+.page-footer img {
+  height: 2em;
+}
+h3 {
+  font-family: 'Dosis', sans-serif;
+}

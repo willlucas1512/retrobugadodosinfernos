@@ -1,25 +1,13 @@
 body {
   background-image: url('img/background/typewriter.jpg');
-  height: 1200px;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-span {
-  font-size: 2em;
-  font-family: Dosis;
-}
 /* row white da home */
 #bloco-1 {
-  min-height: 500px;
-  padding-top: 62px;
-  padding-bottom: 34px;
-  margin-top: 500px;
-}
-#texto-footer {
-  margin-bottom: 2em;
-}
-
-footer {
-  margin-top: 400px;
-  margin-bottom: 0;
+  min-height: 30vh;
+  padding-top: 10vh;
+  padding-bottom: 7vh;
+  margin-top: 75vh;
+  margin-bottom: 55vh;
 }
